@@ -26,5 +26,6 @@
 | 女| 23243  | 5841 |
 
 模型: 其中 ResNet50 精度0.97，MobileNet精度0.96
-
-
+数据链接：
+链接：https://pan.baidu.com/s/1Ylhy68N3LwbHGFx9E7Ty9g 
+提取码：ep9i
